@@ -1,6 +1,7 @@
 
 ## Follow insta
 @rye.ane
+@_adamzhang
 
 ## Create a GitHub Account: 
 github.com/join
