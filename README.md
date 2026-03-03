@@ -1,3 +1,7 @@
+# Follow us on Insta and LinkedIn:
+https://www.linkedin.com/in/adam-zhang-8b2b44382/
+@_adamzhang
+
 ## Create a GitHub Account: 
 github.com/join
 ## Download GitHub Desktop
