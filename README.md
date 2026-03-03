@@ -1,6 +1,6 @@
-# Follow us on Insta and LinkedIn:
-https://www.linkedin.com/in/adam-zhang-8b2b44382/
-@_adamzhang
+
+## Follow insta
+@rye.ane
 
 ## Create a GitHub Account: 
 github.com/join
@@ -8,6 +8,9 @@ github.com/join
 desktop.github.com
 ## Download VS Code
 code.visualstudio.com/download
+## Download ChatGPT 
+https://chatgpt.com/download/
+
 
 ## Women in Tech Photos and Bios:
 https://drive.google.com/drive/folders/1If7sDzK8Wr4wG6EWsnvtTPt-fPXQO9je?usp=drive_link
